@@ -1,0 +1,1 @@
+Git is used for version control, while GitHub is used for collaboration and hosting. Git allows developers to track changes to their code and manage branches, while GitHub allows developers to collaborate on projects, share code, and contribute to open-source software.
